@@ -116,10 +116,7 @@ Modern full-stack property platform with search, filtering, and listing manageme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheCollegeProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCollegeProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%"/>
-
-<br><br>
+## 📊 GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCollegeProgrammer&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="90%"/>
 
@@ -127,11 +124,15 @@ Modern full-stack property platform with search, filtering, and listing manageme
 
 <img src="https://github-profile-trophy.vercel.app/?username=TheCollegeProgrammer&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
-</div>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TheCollegeProgrammer&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+
+<br><br>
 
 ### `learn → build → break → fix → ship → repeat`
 
-<br>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:21262D,50:161B22,100:0D1117" width="100%"/>
