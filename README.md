@@ -1,100 +1,114 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=DEVANSH%20AVCHAT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0D1117,50:161B22,100:21262D" width="100%"/>
 
-<h1>Hey, I'm Devansh Avchat 👋</h1>
+### Hey, I'm Devansh 👋
+**CS (AI & Data Science) Student · Full-Stack Developer**
 
-<p><strong>CS Student · Full-Stack Developer · AI & Data Enthusiast</strong></p>
+I build data-driven web apps where **Web + Data + AI** meet — and ship them, not just learn about them.
 
-<p><em>Building data-driven applications and AI-powered tools — one commit at a time.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Building+data-driven+applications.;Exploring+AI+through+engineering.;Turning+ideas+into+things+that+work.;Always+learning.+Always+building." />
+
+<br>
 
 <a href="https://linkedin.com/in/devansh-avchat">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-&nbsp;
-<a href="https://github.com/TheCollegeProgrammer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://leetcode.com/u/Devansh_Avchat/">
+<img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 whoami
 
-I'm a **Computer Science (AI & Data Science)** student passionate about building products at the intersection of **full-stack engineering**, **artificial intelligence**, and **data analytics**.
+```bash
+devansh@dev:~$ cat about_me.txt
 
-- 🔭 Currently building AI-powered tools and analytics dashboards
-- 🎯 Focused on **Full-Stack Development**, **Backend APIs**, and **Data Engineering**
-- 📊 Love turning raw data into insights that actually mean something
-- ⚙️ Always exploring the engineering side of AI — not just the theory
+  Computer Science (AI & Data Science) student passionate about
+  building products where Web, Data & AI meet.
+
+  > 🌐 Building full-stack applications & backend APIs
+  > 📊 Turning raw data into meaningful insights
+  > 🤖 Exploring AI beyond the theory
+  > 🚀 Learning by building real projects
+
+devansh@dev:~$ _
+```
+
+---
+
+## 🎯 Right now
+
+```diff
++ Building   → a RAG-based search tool with LangChain + GCP Cloud Run
++ Learning   → system design patterns for scalable backend services
++ Open to    → internships / freelance work in Full-Stack & Applied AI
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,mongodb,docker,gcp,git,plotly,pandas,matplotlib,tableau&theme=dark&perline=8"/>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data & AI**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-**📈 Trading Backtesting Analyzer**
-A quantitative tool to backtest trading strategies on historical market data. Computes key metrics like Sharpe ratio, drawdown, and win rate to evaluate strategy performance before going live.
-`Python` `Pandas` `FastAPI` `Plotly` `yFinance`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📈 Trading Backtester
+Backtest strategies on historical market data with performance analytics — Sharpe ratio, drawdown, and equity curve visualizations built in.
 
-**🎵 Spotify Data Analysis Dashboard**
-An end-to-end data pipeline and interactive dashboard built on Spotify listening history. Surfaces insights on listening patterns, genre trends, and top artists using real personal data.
-`Python` `Pandas` `Power BI` `Spotify API` `SQL`
+`Python` `Pandas` `FastAPI` `Plotly`
 
----
+[🔗 View Repo](#) · [🌐 Live Demo](#)
 
-**📊 Sales Performance Analytics Dashboard**
-A business intelligence dashboard for tracking sales KPIs, pipeline health, and rep-level performance. Designed for decision-makers who need clarity fast.
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Spotify Analytics
+Interactive analysis of listening patterns, artists & genres — turns raw streaming history into a queryable, visual dashboard.
+
+`Python` `Pandas` `Power BI` `SQL`
+
+[🔗 View Repo](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sales Dashboard
+KPI-focused BI dashboard tracking revenue, churn, and rep performance across regions — built for decisions, not just charts.
+
 `Power BI` `SQL` `DAX` `Python`
 
----
+[🔗 View Repo](#) · [🌐 Live Demo](#)
 
-**🏠 Real Estate Website**
-A modern full-stack real estate platform with property listings, search/filter functionality, and a clean, user-friendly UI. Built with scalable architecture in mind.
-`Next.js` `React` `FastAPI` `PostgreSQL` `Google Cloud`
+</td>
+<td width="50%" valign="top">
 
----
+### 🏠 Real Estate Platform
+Modern full-stack property platform with search, filtering, and listing management — end-to-end from DB schema to UI.
 
-## 📚 Currently Learning
+`Next.js` `React` `FastAPI` `PostgreSQL`
 
-- 🤖 **LLM Engineering** — RAG pipelines, prompt engineering, LangChain
-- ☁️ **Cloud Architecture** — GCP services, serverless, Cloud Run
-- 📐 **System Design** — Scalable backend patterns for production apps
-- 🧪 **MLOps** — Model deployment, monitoring, and versioning
+[🔗 View Repo](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+> Replace the `#` links above with your actual repo/live URLs — a working link beats any badge.
 
 ---
 
@@ -102,20 +116,23 @@ A modern full-stack real estate platform with property listings, search/filter f
 
 <div align="center">
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCollegeProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=TheCollegeProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCollegeProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCollegeProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TheCollegeProgrammer&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCollegeProgrammer&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheCollegeProgrammer&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
 </div>
 
----
+### `learn → build → break → fix → ship → repeat`
+
+<br>
 
 <div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheCollegeProgrammer&style=flat-square&color=4A90D9)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:21262D,50:161B22,100:0D1117" width="100%"/>
 </div>
