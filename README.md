@@ -120,15 +120,7 @@ Modern full-stack property platform with search, filtering, and listing manageme
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCollegeProgrammer&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="90%"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheCollegeProgrammer&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=TheCollegeProgrammer&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
-
-<br><br>
+<br>
 
 ### `learn → build → break → fix → ship → repeat`
 
